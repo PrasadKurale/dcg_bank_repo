@@ -1,11 +1,17 @@
 public class Demo
+{ 
+public void doProcess
 {
+<<<<<<< HEAD
  Int sum; 
 public Integer doProcess(int Amount)
 {
    Sum = sum+Amount;
 
    return sum;
+=======
+    //logic code goes here 
+>>>>>>> parent of 27ca791 (added logic inside doProcess Method)
 }
 
 }
