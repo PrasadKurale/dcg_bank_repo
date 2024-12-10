@@ -1,8 +1,9 @@
 public class Demo
-{ 
-public void doProcess
 {
-    //logic code goes here 
+ Int sum; 
+public void doProcess(int Amount)
+{
+   Sum = sum+Amount;
 }
 
 }
