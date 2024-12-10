@@ -1,9 +1,11 @@
 public class Demo
 {
  Int sum; 
-public void doProcess(int Amount)
+public Integer doProcess(int Amount)
 {
    Sum = sum+Amount;
+
+   return sum;
 }
 
 }
