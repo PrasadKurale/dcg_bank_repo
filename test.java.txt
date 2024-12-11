@@ -1,12 +1,9 @@
 public class Demo
 {
- Int sum;
- String name; 
-public Integer doProcess(int Amount)
+
+public Integer doProcess()
 {
-   Sum = sum+Amount;
-   
-   return sum;
+
 }
 
 }
