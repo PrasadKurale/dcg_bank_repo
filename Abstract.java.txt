@@ -1,8 +1,8 @@
 public class Abstract 
 {
-
-  public void m1()
+int Sum
+  public void m1(int Amount)
 {
-
+  Sum = Sum + Amount;
 }
 }
